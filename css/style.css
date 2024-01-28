@@ -1,0 +1,12 @@
+body {    
+    box-sizing: border-box;
+    width: 960px;
+    margin: 5px auto; 
+    background: rgb(240, 237, 237);
+    text-align: center;
+}
+body a img {
+    box-shadow: 1px 1px 50px black;
+    border-radius: 15px;
+    border: 1px solid black;
+}
